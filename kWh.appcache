@@ -1,0 +1,16 @@
+CACHE MANIFEST
+# built on: 2014-07-20T04:57:14Z
+CACHE:
+index.html
+app/main-built.js?v=1405832234538
+css/style.min.css?v=1405832234538
+fonts/fontawesome-webfont.eot?v=4.1.0
+fonts/fontawesome-webfont.svg?v=4.1.0
+fonts/fontawesome-webfont.ttf?v=4.1.0
+fonts/fontawesome-webfont.woff?v=4.1.0
+
+NETWORK:
+*
+
+FALLBACK:
+/ offline.html
