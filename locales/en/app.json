@@ -1,0 +1,65 @@
+{
+    "common": {
+        "save": {
+            "success": "Save successfully",
+            "fail": "Fail to save"
+        }
+    },
+    "button": {
+        "add": "Add",
+        "save": "Save",
+        "close": "Close",
+        "search": "Search",
+        "init": "Init"
+    },
+    "periods": {
+        "title": "Periods",
+        "pageTitle": "Billing Periods",
+        "empty": {
+            "title": "Please set billing periods",
+            "tip": "The billing periods are not set up yet, please click the <kbd class='text-nowrap'>Add</kbd> button to set them up"
+        },
+        "edit": {
+            "title": "Billing Period",
+            "periodName": {
+                "placeholder": "Period Name, such as: 201407"
+            }
+        },
+        "initialPeriod": {
+            "name": "Initial Period"
+        }
+    },
+    "customers": {
+        "title": "Customers",
+        "pageTitle": "Add customer",
+        "customer": {
+            "name": "Customer Name"
+        },
+        "meter": {
+            "id": "Serial Number",
+            "initialReading": "Initial Reading"
+        },
+        "period": {
+            "noPeriodWarning": "Please set billing periods first"
+        }
+    },
+    "meterReading": {
+        "title": "Meter Reading",
+        "allMetersHaveBeenRead": "All the meters have been read for this period",
+        "reading": {
+            "placeholder": "Current Reading"
+        }
+    },
+    "storage": {
+        "title": "Storage",
+        "pageTitle": "Storage Settings",
+        "token": {
+            "title": "Github Token",
+            "hint": "Click to input Github Token"
+        },
+        "gist": {
+            "title": "Gist ID"
+        },
+        "tip": "Personal access token is the token you generated on Github and is used to access the GitHub API."
+    }
+}

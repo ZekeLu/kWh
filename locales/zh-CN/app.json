@@ -1,0 +1,65 @@
+{
+    "common": {
+        "save": {
+            "success": "保存成功",
+            "fail": "保存失败"
+        }
+    },
+    "button": {
+        "add": "添加",
+        "save": "保存",
+        "close": "关闭",
+        "search": "搜索",
+        "init": "初始化"
+    },
+    "periods": {
+        "title": "期次",
+        "pageTitle": "计费期次",
+        "empty": {
+            "title": "请设置计费期次",
+            "tip": "您还没有设置电费计算周期，请点击<kbd class='text-nowrap'>添加</kbd>按钮设置期次"
+        },
+        "edit": {
+            "title": "计费期次",
+            "periodName": {
+                "placeholder": "期次名称，比如：201407"
+            }
+        },
+        "initialPeriod": {
+            "name": "初始期次"
+        }
+    },
+    "customers": {
+        "title": "用户",
+        "pageTitle": "添加用户",
+        "customer": {
+            "name": "用户姓名"
+        },
+        "meter": {
+            "id": "电表编号",
+            "initialReading": "初始读数"
+        },
+        "period": {
+            "noPeriodWarning": "请先设置计费周期"
+        }
+    },
+    "meterReading": {
+        "title": "抄表",
+        "allMetersHaveBeenRead": "本期电表已经抄完",
+        "reading": {
+            "placeholder": "本期读数"
+        }
+    },
+    "storage": {
+        "title": "存储",
+        "pageTitle": "存储设置",
+        "token": {
+            "title": "Github网站令牌",
+            "hint": "点击输入Github网站令牌"
+        },
+        "gist": {
+            "title": "Gist ID"
+        },
+        "tip": "Github网站令牌用于调用Github网站提供的API"
+    }
+}
